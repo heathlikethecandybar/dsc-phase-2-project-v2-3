@@ -1,4 +1,4 @@
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/halfway-there.gif)
+![cover](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/cover.jpeg)
 
 # King County Housing Analysis
 
