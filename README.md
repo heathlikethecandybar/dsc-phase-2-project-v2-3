@@ -53,11 +53,11 @@ The project uses multivariate linear regression model to analyze house sales in 
 
 ## Results
 
-![median_home_value_over_time](https://github.com/heathlikethecandybar/phase_1_final/)
+![median_home_value_over_time](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/median_home_value_over_time.png)
 
-![sq_ft_price_scatter](https://github.com/heathlikethecandybar/phase_1_final/)
+![sq_ft_price_scatter](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/sq_ft_price_scatter.png)
 
-![baths_round_hbar](https://github.com/heathlikethecandybar/)
+![baths_round_hbar](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/baths_round_hbar.png)
 
 ## Conclusions
 
