@@ -53,7 +53,12 @@ The project uses multivariate linear regression model to analyze house sales in 
 
 ## Results
 
+The first view we took was looking at our average and median price for homes over time.  The dataset has a pretty broad range of homes, starting in 1990 all the way until 2015.  Being that we are focusing on more r
+To normalize the data, we began our analysis by pulling only the records from 1990 and after.  This gives us a much more normal distribution of price data, giving us better result when we look at our model's performance. 
+
+The median home value for King County during this time period is $475k.  So homeowners will quickly be able to assess where the perceived value of their home stands in comparison. This to say that houses with this median home value, also have 2,240 square foot of living area, 3 bathrooms, and an median grade number of 8.  Which are features we will continue to evaluate in our model as impactable features.
 ![median_home_value_over_time](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/median_home_value_over_time.png)
+
 
 ![sq_ft_price_scatter](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/sq_ft_price_scatter.png)
 
@@ -61,11 +66,10 @@ The project uses multivariate linear regression model to analyze house sales in 
 
 ## Conclusions
 
-This analysis leads to three recommendations for the initial content selection and distribution for Microsoft:
+This analysis leads to three recommendations for the improvement of home value:
 
-- **1** 
-- **2** 
-- **3** 
+- **By increasing the living square footage of your home, you can increase the value by $99 per square foot.** 
+- **By adding bathrooms, and adding 1/4 bath features, you can increase the value of your home by $22k for each 1/2 bath you add.** 
 
 ## Moving Forward
 
