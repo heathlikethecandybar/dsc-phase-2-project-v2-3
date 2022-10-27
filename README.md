@@ -68,21 +68,22 @@ In addition to square footage of living space, the next value add to a home owne
 
 ![baths_round_hbar](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/baths_round_hbar.png)
 
-Another features that was evaluated but didn't spend a lot of time on is the grade of the home.  The grade is a scale from 0-13 that represents the overall quality of the home, and an evaluation of the materials used when the home was built.  Each grade that a homeowner can increase the qualitfy of their home, they can add an addition #x value.  We choose not to fully include this as a part of the recommendation set, but can be used as an alternative recommendation if the first 2 recommendations do not work out for the customer.  Since the home is already built, this feature would apply to the finishes, and final touches of the home, which would manifest in home improvements in all aspects of the home.
+Another features that was evaluated but didn't spend a lot of time on is the grade of the home.  The grade is a scale from 0-13 that represents the overall quality of the home, and an evaluation of the materials used when the home was built.  Each grade that a homeowner can increase the qualitfy of their home, they can add an addition $99k value.  We choose not to fully include this as a part of the recommendation set, but can be used as an alternative recommendation if the first 2 recommendations do not work out for the customer.  Since the home is already built, this feature would apply to the finishes, and final touches of the home, which would manifest in home improvements in all aspects of the home.
 
 
 ## Conclusions
 
-There are a few changes that homeowners can make in order to increase the value of their home.  This analysis leads to three recommendations for the improvement of home value:
+In conclusion, we were able to evaluate and identify a few different options for our customer and ultimately some recommendations that they can make to the clients about increasing the value of their home.  In summary those features are:
 
 - **The median home price in King County, WA is $475k**
 - **By increasing the living square footage of your home, you can increase the value by $99 per square foot.** 
-- **By adding bathrooms, and adding 1/4 bath features, you can increase the value of your home by $22k for each 1/2 bath you add.** 
+- **By adding bathrooms, and adding 1/4 bath features, you can increase the value of your home by $22k for each 1/4 bath you add.** 
+
 
 
 ## Moving Forward
 
-Further analyses in these areas could yield additional insights, such as:
+Further analyses in these areas could yield additional insights
 
 - **Address limitations/ concerns - add additional pricing data, adjust for inflation, etc.**
 - **Look at additional zip codes to understand values more specifically (or not).**
