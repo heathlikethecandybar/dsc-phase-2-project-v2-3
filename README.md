@@ -64,7 +64,7 @@ Now that we understand the typical home in King County, let's take a look at a f
 
 ![sq_ft_price_scatter](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/sq_ft_price_scatter.png)
 
-In addition to square footage of living space, the next value add to a home owner is 1/4 bathrooms.  1/4 bathrooms can be defined as any component of the bathroom if you think of them individually.  So a toilet, a sink or washbasin, and a shower, and a bathtub would represent a full bathroom.  Adding any one of these components to your bathroom would add an additional $22k of value to your home.  Now considering that smaller bathrooms may not have enough size to evolve into a full bathroom, but most bathrooms could handle adding a sink or washbasin, or a toilet depending on how the bathroom is set up.  We don't necessarily know the combination of the bathrooms in this dataset, so we wouldn't be able to recommend which line up yields the most value.  The clients could however, reference the chart below to understand where their bathroom is, and the potential increment if they were to increase the features within their bathroom.
+In addition to square footage of living space, the next value add to a home owner is 1/4 bathrooms.  1/4 bathrooms can be defined as any component of the bathroom if you think of them individually.  So a toilet, a sink or washbasin, and a shower, and a bathtub would represent a full bathroom.  Adding any one of these components to your bathroom would add an additional $21k of value to your home.  Now considering that smaller bathrooms may not have enough size to evolve into a full bathroom, but most bathrooms could handle adding a sink or washbasin, or a toilet depending on how the bathroom is set up.  We don't necessarily know the combination of the bathrooms in this dataset, so we wouldn't be able to recommend which line up yields the most value.  The clients could however, reference the chart below to understand where their bathroom is, and the potential increment if they were to increase the features within their bathroom.
 
 ![baths_round_hbar](https://github.com/heathlikethecandybar/dsc-phase-2-project-v2-3/blob/main/images/baths_round_hbar.png)
 
@@ -76,8 +76,8 @@ Another features that was evaluated but didn't spend a lot of time on is the gra
 In conclusion, we were able to evaluate and identify a few different options for our customer and ultimately some recommendations that they can make to the clients about increasing the value of their home.  In summary those features are:
 
 - **The median home price in King County, WA is $475k**
-- **By increasing the living square footage of your home, you can increase the value by $99 per square foot.** 
-- **By adding bathrooms, and adding 1/4 bath features, you can increase the value of your home by $22k for each 1/4 bath you add.** 
+- **By increasing the living square footage of your home, you can increase the value by 101 per square foot.** 
+- **By adding bathrooms, and adding 1/4 bath features, you can increase the value of your home by $21k for each 1/4 bath you add.** 
 
 
 
@@ -93,7 +93,7 @@ Further analyses in these areas could yield additional insights
 
 ## For More Information
 
-The full analysis is located in the [Jupyter Notebook](./phase_2_project.ipynb) or review this summary [presentation](link).
+The full analysis is located in the [Jupyter Notebook](./phase_2_project.ipynb) or review this summary [presentation](./phase_2_presentation.pdf).
 
 For additional info, contact Heath Rittler at [hrittler@gmail.com](mailto:hrittler@gmail.com)
 
@@ -104,7 +104,7 @@ For additional info, contact Heath Rittler at [hrittler@gmail.com](mailto:hrittl
 ├── data
 ├── images
 ├── README.md
-├── FI - Phase 2 Project.pdf
+├── phase_2_presentation.pdf
 └── phase_2_project.ipynb
 ```
 
