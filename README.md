@@ -104,6 +104,7 @@ For additional info, contact Heath Rittler at [hrittler@gmail.com](mailto:hrittl
 ├── images
 ├── README.md
 ├── phase_2_presentation.pdf
+├── phase_2_notebook.pdf
 └── phase_2_project.ipynb
 ```
 
